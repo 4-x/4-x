@@ -6,4 +6,4 @@
 
 [CodePen](//codepen.io/salt/collections/public)
 
-[LinkedIn](//linkedin/in/shoup)
+[LinkedIn](//linkedin.com/in/shoup)
