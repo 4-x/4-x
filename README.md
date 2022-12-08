@@ -2,7 +2,7 @@
 
 [alexandershoup.com](//alexandershoup.com)
 
-[Gists](//gists.github.io/4-x)
+[Gists](//gists.github.com/4-x)
 
 [CodePen](//codepen.io/salt)
 
